@@ -18,8 +18,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```python
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Gokul R
-RegisterNumber:212222230039
+Developed by: Syed Mokthiyar S.M
+RegisterNumber:212222230156
 */
 import pandas as pd
 
@@ -79,16 +79,20 @@ cm_display.plot()
 
 ## Output:
 ## TOP 5 ELEMENTS
-![Screenshot 2024-03-12 162221](https://github.com/syedmokthiyar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student./assets/118787294/3d959df2-d30e-41c1-9afa-0babc4bbda53)
+![Screenshot 2024-03-12 162221](https://github.com/syedmokthiyar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118787294/8d3d662b-b39a-48a1-88c4-41522f1775d7)
+
 ## Data-Status:
-![Screenshot 2024-03-12 205614](https://github.com/syedmokthiyar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student./assets/118787294/41a36001-abf9-4852-9e63-955920d5b4bd)
+![Screenshot 2024-03-12 205614](https://github.com/syedmokthiyar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118787294/3b09c004-0754-4e33-b7ad-f8f2af7834dc)
+
 ## y_prediction array:
-![Screenshot 2024-03-12 210238](https://github.com/syedmokthiyar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student./assets/118787294/b21aa187-86eb-4db5-b256-cd8fe406a73f)
+![Screenshot 2024-03-12 210238](https://github.com/syedmokthiyar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118787294/80b6b895-9de4-4ac7-94ae-510aaab35d32)
 
 ## Classification Report:
-![Screenshot 2024-03-12 205342](https://github.com/syedmokthiyar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student./assets/118787294/c38411a5-02ae-47ba-a562-d65205c33ddd)
+![Screenshot 2024-03-12 205342](https://github.com/syedmokthiyar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118787294/64953543-3a46-4b81-8ac7-a854c0249f13)
+
 ## Graph:
-![Screenshot 2024-03-12 205106](https://github.com/syedmokthiyar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student./assets/118787294/ac4b612b-1978-4a31-8941-94d50d4a2e0a)
+![Screenshot 2024-03-12 205106](https://github.com/syedmokthiyar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118787294/7bfed7d0-01cb-423c-b714-8f6a879213fa)
+
 
 
 ## Result:
